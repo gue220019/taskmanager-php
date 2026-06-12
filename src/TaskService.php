@@ -1,7 +1,7 @@
 <?php
 
-require_once _DIR_ . '/Task.php';
-require_once _DIR_ . '/TaskRepository.php';
+require_once __DIR__ . '/Task.php';
+require_once __DIR__ . '/TaskRepository.php';
 
 class TaskService
 {
