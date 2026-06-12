@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"TaskRepositoryTest::testANF02TaskCanBeSavedAndListed":0.014,"TaskRepositoryTest::testANF02TaskCanBeFoundByIndex":0,"TaskTest::testANF01TaskCanBeCreated":0.001,"TaskTest::testANF01EmptyTitleThrowsException":0.002,"TaskServiceTest::testANF03TaskCanBeDeleted":0,"TaskServiceTest::testANF04TaskCanBeCompleted":0.001}}
