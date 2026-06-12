@@ -6,6 +6,6 @@
     "classmap": ["src/"]
   },
   "scripts": {
-    "test": "vendor\\bin\\phpunit tests"
+    "test": "vendor/bin/phpunit tests"
   }
 }
